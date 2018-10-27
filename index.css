@@ -93,6 +93,14 @@ ul {
 	margin-top: 5%;
 }
 
+.web-app, .mobile-app {
+	padding-left: 10%;
+}
+
+.mobile-app {
+	padding-left: 5%;
+}
+
 .text-center {
 	padding: 8px;
 	padding-top: 10px; 
